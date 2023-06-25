@@ -6,7 +6,7 @@
   <link href="https://puppet17514.github.io/Puppet17514.gihub.io/atom.xml" rel="self"/>
   
   <link href="https://puppet17514.github.io/Puppet17514.gihub.io/"/>
-  <updated>2023-06-25T11:09:48.619Z</updated>
+  <updated>2023-06-25T12:04:27.301Z</updated>
   <id>https://puppet17514.github.io/Puppet17514.gihub.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>TEST_POST</title>
+    <link href="https://puppet17514.github.io/Puppet17514.gihub.io/2023/06/25/TEST-POST/"/>
+    <id>https://puppet17514.github.io/Puppet17514.gihub.io/2023/06/25/TEST-POST/</id>
+    <published>2023-06-25T12:04:05.000Z</published>
+    <updated>2023-06-25T12:04:27.301Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="test"><a href="#test" class="headerlink" title="test"></a>test</h2><h1 id="test-1"><a href="#test-1" class="headerlink" title="test"></a>test</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;test&quot;&gt;&lt;a href=&quot;#test&quot; class=&quot;headerlink&quot; title=&quot;test&quot;&gt;&lt;/a&gt;test&lt;/h2&gt;&lt;h1 id=&quot;test-1&quot;&gt;&lt;a href=&quot;#test-1&quot; class=&quot;headerlink&quot; title=&quot;test&quot;</summary>
+      
+    
+    
+    
+    
+    <category term="test" scheme="https://puppet17514.github.io/Puppet17514.gihub.io/tags/test/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello_test</title>
