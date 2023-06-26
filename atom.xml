@@ -6,7 +6,7 @@
   <link href="https://puppet17514.github.io/Puppet17514.gihub.io/atom.xml" rel="self"/>
   
   <link href="https://puppet17514.github.io/Puppet17514.gihub.io/"/>
-  <updated>2023-06-26T01:21:43.994Z</updated>
+  <updated>2023-06-26T01:26:11.090Z</updated>
   <id>https://puppet17514.github.io/Puppet17514.gihub.io/</id>
   
   <author>
@@ -17,18 +17,19 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>TEST_POST</title>
-    <link href="https://puppet17514.github.io/Puppet17514.gihub.io/2023/06/25/TEST-POST/"/>
-    <id>https://puppet17514.github.io/Puppet17514.gihub.io/2023/06/25/TEST-POST/</id>
+    <title>软外_暑期_学习</title>
+    <link href="https://puppet17514.github.io/Puppet17514.gihub.io/2023/06/25/%E8%BD%AF%E5%A4%96%E6%9A%91%E6%9C%9F%E5%AD%A6%E4%B9%A0/"/>
+    <id>https://puppet17514.github.io/Puppet17514.gihub.io/2023/06/25/%E8%BD%AF%E5%A4%96%E6%9A%91%E6%9C%9F%E5%AD%A6%E4%B9%A0/</id>
     <published>2023-06-25T12:04:05.000Z</published>
-    <updated>2023-06-26T01:21:43.994Z</updated>
+    <updated>2023-06-26T01:26:11.090Z</updated>
     
-    <content type="html"><![CDATA[<pre class=" language-bash"><code class="language-bash">前端主要实现产品经理所绘制原型图的具体实现和与后端的对接。主要需要掌握HTML，css，JavaScript，elementUI，vue,小程序。具体介绍可见视频：狂神说大前端技术介绍</code></pre><h2 id="目标"><a href="#目标" class="headerlink" title="目标"></a>目标</h2><pre class=" language-bash"><code class="language-bash">理解HTML、CSS基本元素，理解JavaScript基本语法，能够编写简单静态网页。可利用elementUI、vue实现相关小程序编写。</code></pre><h2 id="资料"><a href="#资料" class="headerlink" title="资料"></a>资料</h2><pre><code>1. 菜鸟教程（文字）：HTML5教程 CSS3教程 JavaScript教程  2.b站（视频）：vue+elementUI教程 小程序教程-黑马程序员</code></pre><h2 id="进度"><a href="#进度" class="headerlink" title="进度"></a>进度</h2><pre class=" language-bash"><code class="language-bash">更新于6.26再次复习一遍前端三件套之后进行vue框架的学习</code></pre>]]></content>
+    <content type="html"><![CDATA[<p>前端主要实现产品经理所绘制原型图的具体实现和与后端的对接。主要需要掌握HTML，css，JavaScript，elementUI，vue,小程序。具体介绍可见视频：狂神说大前端技术介绍  </p><h2 id="目标"><a href="#目标" class="headerlink" title="目标"></a>目标</h2><pre class=" language-bash"><code class="language-bash">理解HTML、CSS基本元素，理解JavaScript基本语法，能够编写简单静态网页。可利用elementUI、vue实现相关小程序编写。  </code></pre><h2 id="资料"><a href="#资料" class="headerlink" title="资料"></a>资料</h2><pre><code>1. 菜鸟教程（文字）：HTML5教程 CSS3教程 JavaScript教程  2.b站（视频）：vue+elementUI教程 小程序教程-黑马程序员  </code></pre><h2 id="进度"><a href="#进度" class="headerlink" title="进度"></a>进度</h2><pre class=" language-bash"><code class="language-bash">更新于6.26再次复习一遍前端三件套之后进行vue框架的学习</code></pre>]]></content>
     
     
       
       
-    <summary type="html">&lt;pre class=&quot; language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;前端主要实现产品经理所绘制原型图的具体实现和与后端的对接。主要需要掌握HTML，css，JavaScript，elementUI，vue,小程序。具体介绍可见视频：狂神</summary>
+    <summary type="html">&lt;p&gt;前端主要实现产品经理所绘制原型图的具体实现和与后端的对接。主要需要掌握HTML，css，JavaScript，elementUI，vue,小程序。具体介绍可见视频：狂神说大前端技术介绍  &lt;/p&gt;
+&lt;h2 id=&quot;目标&quot;&gt;&lt;a href=&quot;#目标&quot; class=&quot;heade</summary>
       
     
     
